@@ -1,2 +1,2 @@
-# Solution-of-Object-Oriented-Programing-with-C-by-E-Balagurusamy-Exercises
+# Solution-of-Object-Oriented-Programing-with-C++-by-E-Balagurusamy-Exercises
 Here you can find Object Oriented Programing with C++ Exercises solution codes solved by me........................
